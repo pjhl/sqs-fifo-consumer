@@ -1,0 +1,19 @@
+{
+  "name": "sqs-fifo-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Consumer.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
